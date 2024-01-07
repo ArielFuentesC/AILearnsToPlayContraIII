@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on training an artificial intelligence (AI) agent to master the classic video game Contra III: The Alien Wars on the Super Nintendo Entertainment System (SNES). Leveraging reinforcement learning algorithms, OpenAI Baselines, and innovative reward strategies, the AI navigates diverse enemy scenarios and conquers challenging boss battles.
+This project focuses on training an artificial intelligence (AI) agent to play the classic video game Contra III: The Alien Wars on the Super Nintendo Entertainment System (SNES). Leveraging reinforcement learning algorithms, OpenAI Baselines, and innovative reward strategies, the AI navigates diverse enemy scenarios and conquers challenging boss battles.
 
 ## Key Features
 

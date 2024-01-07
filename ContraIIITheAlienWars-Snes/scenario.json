@@ -1,0 +1,44 @@
+{
+  "crop": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "done": {
+    "variables": {
+      "1PLife": {
+        "op": "zero"
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "1PScore": {
+        "reward": 5.0
+      },
+      "1Phpos": {
+        "reward": 0.25
+      },
+      "bossheart": {
+        "reward": 50.0
+      },
+      "buttoncentral": {
+        "reward": 5.0
+      },
+      "canionleft": {
+        "reward": 5.0
+      },
+      "canionright": {
+        "reward": 5.0
+      },
+      "jumpdownanddeath": {
+        "measurement": "absolute",
+        "penalty": 20.0
+      },
+      "tanklife": {
+        "reward": 80.0
+      }
+    }
+  }
+}

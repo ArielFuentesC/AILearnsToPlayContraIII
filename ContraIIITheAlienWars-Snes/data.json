@@ -1,0 +1,72 @@
+{
+  "info": {
+    "1PAlive": {
+      "address": 8258070,
+      "type": "|u1"
+    },
+    "1PDead": {
+      "address": 8258070,
+      "type": "|u1"
+    },
+    "1PLeftPenal": {
+      "address": 8258075,
+      "type": "|i1"
+    },
+    "1PLife": {
+      "address": 8265610,
+      "type": "|u1"
+    },
+    "1PMvmt": {
+      "address": 32,
+      "type": "<u4"
+    },
+    "1PRight": {
+      "address": 8258074,
+      "type": "|i1"
+    },
+    "1PScore": {
+      "address": 8265632,
+      "type": "<d4"
+    },
+    "1Phpos": {
+      "address": 8262592,
+      "type": "|u1"
+    },
+    "2PLife": {
+      "address": 8265674,
+      "type": "|u1"
+    },
+    "2PScore": {
+      "address": 8265696,
+      "type": "<d4"
+    },
+    "Continue": {
+      "address": 8265314,
+      "type": "|i1"
+    },
+    "bossheart": {
+      "address": 8258566,
+      "type": "<d2"
+    },
+    "buttoncentral": {
+      "address": 8259782,
+      "type": "<d2"
+    },
+    "canionleft": {
+      "address": 8259654,
+      "type": "<d2"
+    },
+    "canionright": {
+      "address": 8259718,
+      "type": "<d2"
+    },
+    "jumpdownanddeath": {
+      "address": 8263559,
+      "type": "|i1"
+    },
+    "tanklife": {
+      "address": 8259846,
+      "type": "<d2"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "crop": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "done": {
+    "variables": {
+      "1PLife": {
+        "op": "zero"
+      },
+      "Continue": {
+        "op": "less-than",
+        "reference": 4
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "1PScore": {
+        "reward": 1.0
+      },
+      "1Phpos": {
+        "reward": 1.0
+      },
+      "bossheart": {
+        "reward": 30.0
+      },
+      "buttoncentral": {
+        "reward": 0.09000000357627869
+      },
+      "canionleft": {
+        "reward": 0.09000000357627869
+      },
+      "canionright": {
+        "reward": 0.09000000357627869
+      },
+      "jumpdownanddeath": {
+        "measurement": "absolute",
+        "penalty": 1.0
+      },
+      "tanklife": {
+        "reward": 8.0
+      }
+    }
+  }
+}

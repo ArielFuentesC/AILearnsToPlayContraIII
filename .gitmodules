@@ -1,0 +1,6 @@
+[submodule "baselines"]
+	path = baselines
+	url = https://github.com/openai/baselines
+[submodule "retro"]
+	path = retro
+	url = https://github.com/openai/retro

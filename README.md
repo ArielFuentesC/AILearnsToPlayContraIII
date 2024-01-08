@@ -22,3 +22,5 @@ This project focuses on training an artificial intelligence (AI) agent to play t
   - Contains various experiments with trained agents
 - **`videos`:**
   - Excluded from the repository to reduce size
+
+![Demo](demo.gif)

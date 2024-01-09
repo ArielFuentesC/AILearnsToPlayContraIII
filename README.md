@@ -23,3 +23,8 @@ This project focuses on training an artificial intelligence (AI) agent to play t
 - **`videos`:**
   - Excluded from the repository to reduce size
 
+**.mp4 file of a demo on demo.mp4**
+
+**Tiny, tiny tiny demo;**
+
+https://github.com/ArielFuentesC/AILearnsToPlayContraIII/assets/64890444/7673b89d-6d42-48f5-81a5-fe5c646216c9
